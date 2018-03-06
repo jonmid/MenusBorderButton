@@ -19,4 +19,12 @@
         android:src="@drawable/save"
         android:theme="@style/RaisedButtonDark"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hola mundo"
+        android:theme="@style/RaisedButtonDark"
+        android:drawableLeft="@drawable/save"
+        android:drawablePadding="5dp"/>
+
 </LinearLayout>
